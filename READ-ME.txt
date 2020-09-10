@@ -1,0 +1,17 @@
+Beep Boop
+
+/ *
+	Project by Group
+	Ducto, Dalogdog, Navales
+
+					*/
+
+INSTRUCTION TO OPEN:
+
+	[1]	Click "Home" or Home.html to start!
+	[2]	Naviagate through Home Page.
+	[3]	Click Start to start the trivia and put your designated topics!
+	[4]	Enjoy!
+	[3.1]	Video Tutorial in the Project Tab for you to watch!
+
+
